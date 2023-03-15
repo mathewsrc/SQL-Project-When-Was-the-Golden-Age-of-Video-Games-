@@ -1,5 +1,5 @@
 # SQL-Project-When-Was-the-Golden-Age-of-Video-Games-
-This project uses techniques learned in Joining Data with SQL, including left and inner joins, set theory concepts such as union and intercept, and subqueries.
+This project uses techniques such as joins, including left and inner joins, set theory concepts such as union and intercept, and subqueries.
 
 ## 1. The ten best-selling video games
 
