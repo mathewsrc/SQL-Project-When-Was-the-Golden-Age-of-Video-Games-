@@ -1,5 +1,5 @@
-# SQL-Project-When-Was-the-Golden-Age-of-Video-Games-
-Analyzing video game critic and user scores as well as sales data for the top 400 video games released since 1977
+# Project: When was the golden age of video games
+Analyzing video game critic, user scores, and sales data for the top 400 video games released since 1977
 
 from: https://app.datacamp.com/
 
